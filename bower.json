@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-chat",
+  "description": "Simple NodeJS Chat",
+  "main": "index.js",
+  "authors": [
+    "John Cardozo"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "bootstrap": "^4.4.0"
+  }
+}
